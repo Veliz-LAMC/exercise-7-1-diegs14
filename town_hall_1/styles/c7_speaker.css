@@ -49,13 +49,6 @@ header img {
 main {
 	clear: left;
 }
-#nav_menu ul {
-	list-style-type: none;
-}
-/*#nav_menu li ul {
-	float:left;
-}
-*/
 /* the styles for the section */
 section {
 	width: 525px;
